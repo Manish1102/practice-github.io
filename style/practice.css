@@ -1,0 +1,75 @@
+
+
+    h1{
+        text-align: center;
+        padding: 5px 200px 5px 100px;
+        text-decoration: underline;
+        background-color: aqua;
+        box-shadow: 7px 6px 6px gray;
+        border: 3px solid rgb(0, 0, 0);
+        border-radius: 20px;
+    }
+    h1:hover{
+        color: red;
+        font-size: 250%;
+    }
+
+    #box{
+        border: 3px solid rgb(0, 0, 0);
+        background-color: aquamarine;
+        border-radius: 10px;
+        box-shadow: 4px 5px 10px 10px rgb(88, 87, 87);
+        padding: 50px;
+        margin: 3vw;
+    }
+    .fact1 {
+      width: 100px;
+      background-color: white !important;
+        border: 2px solid black;
+        border-radius: 8px;  
+        padding: 3px 0px 3px 31px; 
+        color: rgb(0, 143, 245) ;    
+        margin: 10px;
+        box-shadow: 3px 4px 10px 1px rgb(63, 63, 63);
+
+    }
+    p#fact1{
+        font-size: 30px;
+        font-weight: 700;
+        margin: 10px;
+
+    }
+#topic{
+    font-size: 20px;
+    background-color: bisque;
+    padding: 10px;
+    font-weight: 500;
+    border:1px solid wheat ;
+    border-radius: 9px;
+}
+p#fact1:hover{
+    color: brown;
+    font-size: 35px;
+}
+.fact1:hover{
+
+    font-size: 30px;
+    color:green
+}
+img{
+    width: 1000px;
+    padding: 0px 0px 0px 200px ;
+
+
+}
+
+footer{
+    color: white;
+    background-color: rgb(28, 27, 27);
+    padding: 20px 200px 200px 200px ;
+    border: 3px solid rgb(13, 255, 0);
+    border-radius: 7px;
+    text-align: center;
+    margin: 0px;
+
+}
